@@ -1,0 +1,5 @@
+p_gain_linear: 0.25
+p_gain_ang: 1.05
+tolerance: 0.05
+xGoal: 1
+yGoal: 1
