@@ -9,8 +9,5 @@ int main(int argc, char** argv)
 
   turtle_cl::turtleCL hello;
 
-
-  hello.velocity_calc();
-
   ros::spin();
 }
